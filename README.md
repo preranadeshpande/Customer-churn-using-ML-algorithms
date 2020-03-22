@@ -1,6 +1,6 @@
 # TeleCustomer
  
-Attributes considered for the classifier(inputs):
+## Attributes considered for the classifier(inputs):
 1. CustomerID
 2. Gender
 3. SeniorCitizen
@@ -23,4 +23,6 @@ Attributes considered for the classifier(inputs):
 20. TotalCharges
 
 
-Classifier outputs: [Churn] (yes/no)
+**Classifier outputs:** [Churn] (yes/no)
+
+## Classifier model: DecisionTreeClassifier
