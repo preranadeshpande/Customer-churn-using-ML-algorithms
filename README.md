@@ -1,5 +1,4 @@
-# TeleCustomer
- 
+# Customer data 
 ## Attributes considered for the classifier(inputs):
 | S.No | Attribute Name |
 | :--- | :--- |
