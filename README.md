@@ -1,4 +1,4 @@
-# Customer data 
+# Customer Churn
 ## Attributes considered for the classifier(inputs):
 | S.No | Attribute Name |
 | :--- | :--- |
